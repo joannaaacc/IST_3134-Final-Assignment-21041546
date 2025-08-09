@@ -29,19 +29,13 @@ File 1: movies.csv
 
 - **Total Records**: 87,586 movies
 
-
+File 2: ratings.csv
 - **File 1 Name**: ratings.csv
   
 - **File Size**: 856.52 MB
   
 - **Total Records**: 32 million ratings
 
-File 2: ratings.csv
-- **File Name**: movies.csv
-
-- **File Size**: ~4.14 MB
-
-- **Total Records**: 87,586 movies
 
 No preprocessing was required as both datasets are already clean and analysis-ready from the MovieLens website. For this project, we focus on movie ratings analysis.
 
