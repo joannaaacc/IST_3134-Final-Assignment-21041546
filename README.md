@@ -18,17 +18,24 @@ The objective is to compare both methods in terms of implementation complexity, 
 
 ## ⛁ Dataset
 
-This project uses movie rating and metadata sourced from the [MovieLens website](https://grouplens.org/datasets/movielens/):
+This project uses movie rating and metadata sourced from the [MovieLens website]([https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/32m/)):
 
 Dataset 1: MovieLens 32M
 
-- **File Name**: ratings.csv
-  
-- **File Size**: ~856.52 MB
-  
-- **Total Records**: ~32 million ratings
+File 1: movies.csv
+- **File Name**: movies.csv
 
-Dataset 2: MovieLens 32M Metadata
+- **File Size**: 4.14 MB
+
+- **Total Records**: 87,586 movies
+
+
+- **File 1 Name**: ratings.csv
+  
+- **File Size**: 856.52 MB
+  
+- **Total Records**: 32 million ratings
+
 
 - **File Name**: movies.csv
 
