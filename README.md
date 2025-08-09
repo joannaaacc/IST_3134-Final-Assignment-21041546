@@ -16,4 +16,40 @@ The objective is to compare both methods in terms of implementation complexity, 
 
 ---
 
+## ⛁ Dataset
+
+This project uses movie rating and metadata sourced from the [MovieLens website](https://grouplens.org/datasets/movielens/):
+
+Dataset 1: MovieLens 32M
+
+- **File Name**: ratings.csv
+  
+- **File Size**: ~856.52 MB
+  
+- **Total Records**: ~32 million ratings
+
+Dataset 2: MovieLens 32M Metadata
+
+- **File Name**: movies.csv
+
+- **File Size**: ~4.14 MB
+
+- **Total Records**: 87,586 movies
+
+No preprocessing was required as both datasets are already clean and analysis-ready from the MovieLens website. For this project, we focus on movie ratings analysis.
+
+Due to GitHub's 25MB file size limit, the extracted files used in this project are hosted externally on Dropbox:
+[movies.csv](https://www.dropbox.com/scl/fi/4fx41j8ne773yhcz8exhe/movies.csv?rlkey=8k5ovbp7eaxf240d29w45c4vv&st=2a55u5j0&dl=1)
+[ratings.csv](https://www.dropbox.com/scl/fi/krkdpnw9nrb3s5qyf1h0p/ratings.csv?rlkey=349sogyz8cvvxebks0wvzsoqt&st=s1mnfnyp&dl=1)
+
+---
+
+## 👥 Team Member
+
+| Name                    | Student ID  |
+|-------------------------|-------------|
+| Chan Pui Ying Joanna    | 21041546    |
+| Gan Yi Jean             | 22041321    |
+
+---
 
