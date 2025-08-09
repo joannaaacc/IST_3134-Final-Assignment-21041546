@@ -113,3 +113,17 @@ Top‑10 movies, sorted by average rating
 ```bash
 hdfs dfs -cat /user/hadoop/movielens/part-00000
 ```
+
+### 6️⃣ Sample Output
+```bash
+Planet Earth II (2016)  4.446830        1956
+Planet Earth (2006)     4.444369        2948
+Band of Brothers (2001) 4.426539        2811
+Shawshank Redemption, The (1994)        4.404614        102929
+Cosmos  4.330081        615
+Godfather, The (1972)   4.317030        66440
+Parasite (2019) 4.312254        11670
+Blue Planet II (2017)   4.300086        1163
+Twin Peaks (1989)       4.298684        1140
+Twelve Angry Men (1954) 4.286192        449
+```
