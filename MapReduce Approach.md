@@ -115,7 +115,7 @@ hdfs dfs -cat /user/hadoop/movielens/part-00000
 ```
 
 ### 6️⃣ Sample Output
-```python
+```bash
 Planet Earth II (2016)  4.45        1956
 Planet Earth (2006)     4.44        2948
 Band of Brothers (2001) 4.43        2811
