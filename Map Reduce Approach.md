@@ -1,4 +1,4 @@
-## Full Execution Guide (Hadoop MapReduce Approach)
+## 🛠️Full Execution Guide (Hadoop MapReduce Approach)
 This section outlines how we executed the MapReduce workflow on AWS using Hadoop Streaming.
 
 ### 1️⃣ Setup Hadoop
