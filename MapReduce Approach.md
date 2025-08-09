@@ -82,7 +82,7 @@ if current is not None:
     consider(current, total, count)
 
 for avg, c, title in sorted(topk, key=lambda x: (x[0], x[1]), reverse=True):
-    print(f"{title}\t{avg:.6f}\t{c}")
+    print(f"{title}\t{avg:.2f}\t{c}")
 PY
 ```
 Scripts were made executable using:
@@ -115,15 +115,15 @@ hdfs dfs -cat /user/hadoop/movielens/part-00000
 ```
 
 ### 6️⃣ Sample Output
-```bash
-Planet Earth II (2016)  4.446830        1956
-Planet Earth (2006)     4.444369        2948
-Band of Brothers (2001) 4.426539        2811
-Shawshank Redemption, The (1994)        4.404614        102929
-Cosmos  4.330081        615
-Godfather, The (1972)   4.317030        66440
-Parasite (2019) 4.312254        11670
-Blue Planet II (2017)   4.300086        1163
-Twin Peaks (1989)       4.298684        1140
-Twelve Angry Men (1954) 4.286192        449
+```python
+Planet Earth II (2016)  4.45        1956
+Planet Earth (2006)     4.44        2948
+Band of Brothers (2001) 4.43        2811
+Shawshank Redemption, The (1994)        4.41        102929
+Cosmos  4.33        615
+Godfather, The (1972)   4.32        66440
+Parasite (2019) 4.31        11670
+Blue Planet II (2017)   4.30        1163
+Twin Peaks (1989)       4.30        1140
+Twelve Angry Men (1954) 4.29        449
 ```
