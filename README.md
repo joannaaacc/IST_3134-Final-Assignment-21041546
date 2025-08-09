@@ -36,7 +36,7 @@ File 1: movies.csv
   
 - **Total Records**: 32 million ratings
 
-
+File 2: ratings.csv
 - **File Name**: movies.csv
 
 - **File Size**: ~4.14 MB
