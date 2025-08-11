@@ -18,7 +18,7 @@ The objective is to compare both methods in terms of implementation complexity, 
 
 ## ⛁ Dataset
 
-This project uses movies.csv and ratings.csv sourced from the [MovieLens website]([https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/32m/)):
+This project uses movies.csv and ratings.csv sourced from the [MovieLens website](https://grouplens.org/datasets/movielens/32m/):
 
 Dataset 1: MovieLens 32M
 
