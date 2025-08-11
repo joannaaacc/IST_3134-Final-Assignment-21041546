@@ -1,4 +1,4 @@
-## 🛠️Full Execution Guide (Hadoop MapReduce Approach)
+## 🛠️Full Execution Guide (Non-MapReduce Approach - Apache Spark Approach)
 As an alternative to the MapReduce pipeline, we implemented the same logic using Apache Spark’s DataFrame API. This approach required fewer lines of code and provided in-memory processing advantages.
 
 ### 1️⃣ Setup PySpark
