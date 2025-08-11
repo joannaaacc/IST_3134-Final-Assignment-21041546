@@ -20,7 +20,7 @@ The objective is to compare both methods in terms of implementation complexity, 
 
 This project uses movies.csv and ratings.csv sourced from the [MovieLens website](https://grouplens.org/datasets/movielens/32m/):
 
-Dataset 1: MovieLens 32M
+Dataset: MovieLens 32M
 
 File 1: movies.csv
 - **File Name**: movies.csv
@@ -42,6 +42,9 @@ No preprocessing was required as both datasets are already clean and analysis-re
 Due to GitHub's 25MB file size limit, the extracted files used in this project are hosted externally on Dropbox:
 [movies.csv](https://www.dropbox.com/scl/fi/4fx41j8ne773yhcz8exhe/movies.csv?rlkey=8k5ovbp7eaxf240d29w45c4vv&st=2a55u5j0&dl=1)
 [ratings.csv](https://www.dropbox.com/scl/fi/krkdpnw9nrb3s5qyf1h0p/ratings.csv?rlkey=349sogyz8cvvxebks0wvzsoqt&st=s1mnfnyp&dl=1)
+
+---
+## Full Report
 
 ---
 
