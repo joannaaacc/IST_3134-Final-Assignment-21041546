@@ -9,7 +9,7 @@ start-all.sh #Start Hadoop
 ```
 
 ### 2️⃣ Data Preparation
-We have two separate data files: movies.csv and ratings.csv downloaded from Dropbox originally from https://grouplens.org/datasets/movielens/ under the section of MovieLens 32M
+We have two separate data files: movies.csv and ratings.csv downloaded from Dropbox originally from https://grouplens.org/datasets/movielens/ under the section of [MovieLens 32M](https://grouplens.org/datasets/movielens/32m/)
 ```bash
 cd ~
 wget "https://www.dropbox.com/scl/fi/4fx41j8ne773yhcz8exhe/movies.csv?rlkey=8k5ovbp7eaxf240d29w45c4vv&st=kufbpr0c&dl=1" -O movies.csv
