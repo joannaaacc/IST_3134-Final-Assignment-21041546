@@ -46,7 +46,6 @@ Due to GitHub's 25MB file size limit, the extracted files used in this project a
 ---
 ## Full Report
 
-<embed src="https://github.com/joannaaacc/IST_3134-Final-Assignment-21041546/blob/main/IST3134%20%20%E2%80%93%20Group%20Assignment%20April%202025.pdf" width="800px" height="600px" />
 
 [📄 View the PDF Report](https://github.com/joannaaacc/IST_3134-Final-Assignment-21041546/blob/main/IST3134%20%20%E2%80%93%20Group%20Assignment%20April%202025.pdf)
 
